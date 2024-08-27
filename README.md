@@ -1,8 +1,7 @@
-# cs350
-Repository for my CS-350 class 
+# CS-350 Emerging Systems Architectures & Technologies
 
 ## Summarize the project and what problem it was solving.
-The project in this repository was designed to allow a Texas Instrument CC3220S device to flash different messages in morse code. The program was implemented as a state machine. 
+The project in this repository was designed to allow a Texas Instrument CC3220S device to flash different messages in morse code. The program was implemented as a state machine written in C.
 
 ## What did you do particularly well?
 I think I did a great job with my overall design and flowchart. As per the project specification, I was required to flash the messages "SOS" and "OK". However, I avoided hardcoding these messages and instead implemented functionality that could map any text-based string into morse code symbols. I also believe that the documentation I created for this project captures that behavior very well.
